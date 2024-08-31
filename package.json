@@ -1,0 +1,15 @@
+{
+  "name": "target-sistemas",
+  "version": "1.0.0",
+  "scripts": {
+    "fibonacci": "npx ts-node ./respostas/code/fibonacci.ts",
+    "encontrar-quantas-letra-a": "npx ts-node ./respostas/code/encontrar-quantas-letra-a.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL3",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
